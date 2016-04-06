@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivctConfig>
+  <pathNames>
+    <sutDir>H:\Projects\Hla\MSG-134\Demo\IVCTsut</sutDir>
+    <testSuites>H:\Projects\Hla\MSG-134\Demo\IVCTtestSuites</testSuites>
+  </pathNames>
+</ivctConfig>

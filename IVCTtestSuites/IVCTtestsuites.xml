@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivctConfig>
+  <testSuites>
+    <testSuite>
+      <name>TS_HelloWorld</name>
+      <packageName>de.fraunhofer.iosb.tc_helloworld</packageName>
+    </testSuite>
+    <testSuite>
+      <name>TS_NETN_2.0</name>
+      <packageName>de.fraunhofer.iosb.tc_netn_2.0</packageName>
+    </testSuite>
+    <testSuite>
+      <name>TS_RPR_FOM_2.0</name>
+      <packageName>de.fraunhofer.iosb.tc_rpr_fom_2.0</packageName>
+    </testSuite>
+  </testSuites>
+</ivctConfig>
