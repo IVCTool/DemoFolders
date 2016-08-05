@@ -4,14 +4,17 @@
     <testSuite>
       <name>TS_HelloWorld</name>
       <packageName>de.fraunhofer.iosb.tc_helloworld</packageName>
+      <tsRunFolder>TS_HelloWorld\TS_HelloWorld\bin</tsRunFolder>
     </testSuite>
     <testSuite>
       <name>TS_NETN_2.0</name>
       <packageName>de.fraunhofer.iosb.tc_netn_2.0</packageName>
+      <tsRunFolder>TS_NETN_2.0\TS_NETN_2.0\bin</tsRunFolder>
     </testSuite>
     <testSuite>
       <name>TS_RPR_FOM_2.0</name>
       <packageName>de.fraunhofer.iosb.tc_rpr_fom_2.0</packageName>
+      <tsRunFolder>TS_RPR_FOM_2.0\TS_RPR_FOM_2.0\bin</tsRunFolder>
     </testSuite>
   </testSuites>
 </ivctConfig>
